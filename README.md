@@ -45,14 +45,20 @@ The following image shows the web application's appearance and functionality:
 3. Then, the app will ask you to input the number of character you want for you password. (It must be a nmber between 8 and 128). Once you input the number, click OK to continue.
 4. If the input is a valid number, the app will continue with the process, otherwhise will display a message with : "[input number] is no valid . Please try again" and the will show the input again to type the correct number.
 5. After the character lenght is validated, the app will continue to ask you if you wish to add characters to your password. If you do click OK to continue, if not just click Cancel and the app will close.
-6. The different characters are 
-'''
-lower case Characters = "abcdefghijklmnopqrstuvwxyz";
-upper case Characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-numbers = "0123456789";
-special characters = "!#$%&'()*+,-./:;<=>?@[]^_`{|}~";
-'''
+6. The different characters are
+   '''
+   lower case Characters = "abcdefghijklmnopqrstuvwxyz";
+   upper case Characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+   numbers = "0123456789";
+   special characters = "!#$%&'()\*+,-./:;<=>?@[]^\_`{|}~";
+   '''
 7. The app will ask you for each type of character, click Ok to choose which character type you want and click Cancel if you dont want that type of character. You must choose at least one type of character to generate the password.
 8. Once you chose the type of characters yo want the app will display a messa "Excellent! Here is your generated password" and it will show your password with your selected criteria inside the box of your secure password. Click on the password then right click to copy it.
 9. If you wish to create a new password, just click again in the Generate password button.
-10. Thank you for using Passsowrd Generator app! 
+10. Thank you for using Passsowrd Generator app!
+
+## Deployed site link
+
+https://franciscogtzrodarte.github.io/password-generator/
+
+## Thank you for using this app
